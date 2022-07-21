@@ -3,15 +3,15 @@
 const styles = [
   {
     type: 'href',
-    body: 'D:\\css\\normalize.css',
+    body: 'D:\Development\..Processing\Boxbytes\source\website\boxbytes-mint-nft\.appfairy\\css\\normalize.css',
   },
   {
     type: 'href',
-    body: 'D:\\css\\webflow.css',
+    body: 'D:\Development\..Processing\Boxbytes\source\website\boxbytes-mint-nft\.appfairy\\css\\webflow.css',
   },
   {
     type: 'href',
-    body: 'D:\\css\\boxbytes-nft-site.webflow.css',
+    body: 'D:\Development\..Processing\Boxbytes\source\website\boxbytes-mint-nft\.appfairy\\css\\boxbytes-nft-site.webflow.css',
   },
 ]
 
