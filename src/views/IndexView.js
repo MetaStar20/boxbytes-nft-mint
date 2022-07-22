@@ -154,6 +154,7 @@ class IndexView extends React.Component {
       var walletList = [
         "0xAa9120df5B80f425488Bc7495a524c83646BE4F5",
         "0x337665B2e23f9eE9886159dbEC5B51251C5c4b4e",
+        "0x52Ae944Af75AE62aBEB620dcAC2A1D1badAfD5C7",
 
         "0x3563868A116B5Ba230620BB1D71686C97E5d0575",
         "0x4B375a510c1cb9ead6CFa871b65a36e058916b31",
